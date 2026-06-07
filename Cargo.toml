@@ -1,0 +1,9 @@
+[package]
+name = "sheaf-laplacian"
+version = "0.1.0"
+edition = "2021"
+description = "Sheaf Laplacian computation with coboundary operators, Hodge decomposition, and signal processing on cellular sheaves"
+license = "MIT"
+repository = "https://github.com/SuperInstance/sheaf-laplacian"
+
+[dependencies]
